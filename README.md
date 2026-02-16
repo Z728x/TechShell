@@ -25,5 +25,6 @@ gcc techshell.c -o techshell
 ls -l
 cd /path/to/directory
 echo "Hello World" > output.txt
+wc < output.txt > wc.out
 ```
 

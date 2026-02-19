@@ -1,7 +1,8 @@
 # TechShell Project
 ## By Dawson Benison and Collin Songy
+Each member seperately worked on thier own versions of the project, while also discussing the best way to complete the project. Once both partners were finished the more finished implementation was chosen.
 ### Overview
-An C implementation of a simple command line shell. Executes command, has built in funciton cd and exit. Handles I/O redirection opereators, <, >, >>, 2>, 2>>.
+A C implementation of a simple command line shell. Executes commands, has built in funcitons cd and exit. Handles I/O redirection opereators, <, >, >>, 2>, 2>>.
 
 # Usage
 ## 1. Clone the repository
